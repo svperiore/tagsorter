@@ -1,0 +1,26 @@
+v3
+>the earliest saved version. Fully functional but very rough and hard to read as the variables have not been cleaned
+
+v4
+>finally cleaned up variables
+>made it so the codes of a works are displayed after being scanned
+
+v5
+>added the exception function in input that allows the program to automatically overwrite specified items to include numbers
+	-the exception function was added to adress common entries such as persona_5 or a2 or 2b
+>fixed the issue where categories could only be quit after results were viewed
+>added a check to make sure that view works could only be called after a search has been made
+>made the program perform a quick search in input.txt to make sure that a work hasn't already been scanned
+>minor changes to cout statements
+
+v6
+>added image display functionality
+	-the cover of a work is opened after more information has been requested
+
+v7
+>comments can now be added to each work
+>show more info can now search by code manually
+
+v9
+>general cleanup with cout statements
+>changed how collections outputs things
